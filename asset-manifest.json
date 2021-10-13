@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ice-cream-project-react/static/css/main.bb908f3c.chunk.css",
+    "main.js": "/ice-cream-project-react/static/js/main.72136268.chunk.js",
+    "main.js.map": "/ice-cream-project-react/static/js/main.72136268.chunk.js.map",
+    "runtime-main.js": "/ice-cream-project-react/static/js/runtime-main.c28f5a7e.js",
+    "runtime-main.js.map": "/ice-cream-project-react/static/js/runtime-main.c28f5a7e.js.map",
+    "static/js/2.be84e9d4.chunk.js": "/ice-cream-project-react/static/js/2.be84e9d4.chunk.js",
+    "static/js/2.be84e9d4.chunk.js.map": "/ice-cream-project-react/static/js/2.be84e9d4.chunk.js.map",
+    "static/js/3.2dc00933.chunk.js": "/ice-cream-project-react/static/js/3.2dc00933.chunk.js",
+    "static/js/3.2dc00933.chunk.js.map": "/ice-cream-project-react/static/js/3.2dc00933.chunk.js.map",
+    "index.html": "/ice-cream-project-react/index.html",
+    "static/css/main.bb908f3c.chunk.css.map": "/ice-cream-project-react/static/css/main.bb908f3c.chunk.css.map",
+    "static/js/2.be84e9d4.chunk.js.LICENSE.txt": "/ice-cream-project-react/static/js/2.be84e9d4.chunk.js.LICENSE.txt",
+    "static/media/logo.492a1700.svg": "/ice-cream-project-react/static/media/logo.492a1700.svg",
+    "static/media/react.e68b35f4.svg": "/ice-cream-project-react/static/media/react.e68b35f4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28f5a7e.js",
+    "static/js/2.be84e9d4.chunk.js",
+    "static/css/main.bb908f3c.chunk.css",
+    "static/js/main.72136268.chunk.js"
+  ]
+}
